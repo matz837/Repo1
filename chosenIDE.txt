@@ -1,0 +1,6 @@
+Matthew Ayers
+CIS263
+
+I chose to use VSCode because it was the first IDE I ever used and it’s the one I feel most comfortable with. 
+Its layout, extensions, and overall flexibility make it easy to work with. Since I’m already familiar with its tools and workflow,
+it made sense to continue using it for this course.
